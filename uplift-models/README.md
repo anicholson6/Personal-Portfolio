@@ -6,7 +6,7 @@
 
 Last year,  our brand launched a large-scale digital advertising campaign leading up to Christmas to drive purchases. While the reach was well over a million impressions, the initial A/B test results were disappointing and the **ROAS was lower than projected**.
 
-This year, the marketing team reached out to the data science team to see if they can model for the most valuable target of customers vs burning all of their budget again. The data scientists suggested an **uplift model** where we identify the top % of customers who will convert after seeing the ad, and the **incremental gain over the control.**
+This year, marketing reached out to the data science team to see if they can target the most valuable group of customers vs burning all of their budget again. The data scientists suggested an **uplift model** where we identify the top % of customers who will convert after seeing the ad, and the **incremental gain over the control.**
 
 
 ## Experiment: Comparing Meta-Learners
