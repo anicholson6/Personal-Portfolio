@@ -34,3 +34,6 @@ I compared three causal inference frameworks using **XGBoost**:
 The curve reveals aninflection point at the 10% mark, and this proves the model's ability to rank users accurately. Beyond this point, the curve flattens and yields diminishing returns.
 
 ![images](images/qini-curve.png)
+
+## Notebook Work
+[Criteo Uplift Model](Criteo_Uplift_Model.ipynb)
